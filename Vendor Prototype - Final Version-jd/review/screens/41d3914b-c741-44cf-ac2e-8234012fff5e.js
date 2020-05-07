@@ -2,9 +2,9 @@ var content='<div class="ui-page" deviceName="iPhoneX" deviceType="mobile" devic
     <div id="t-12e3c31e-dc69-4101-bd26-c6518085d0c6" class="template growth-both devMobile devIOS canvas firer commentable non-processed" alignment="left" name="Template 2" width="375" height="812">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/12e3c31e-dc69-4101-bd26-c6518085d0c6-1588874298614.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/12e3c31e-dc69-4101-bd26-c6518085d0c6-1588874298614-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/12e3c31e-dc69-4101-bd26-c6518085d0c6-1588874298614-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/12e3c31e-dc69-4101-bd26-c6518085d0c6-1588874775855.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/12e3c31e-dc69-4101-bd26-c6518085d0c6-1588874775855-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/12e3c31e-dc69-4101-bd26-c6518085d0c6-1588874775855-ie8.css" /><![endif]-->\
       <div id="t-Rectangle_1" class="pie rectangle firer commentable non-processed"   datasizewidth="410px" datasizeheight="853px" dataX="-7" dataY="-4" >\
        <div class="backgroundLayer"></div>\
        <div class="paddingLayer">\
@@ -24,9 +24,9 @@ var content='<div class="ui-page" deviceName="iPhoneX" deviceType="mobile" devic
     <div id="s-41d3914b-c741-44cf-ac2e-8234012fff5e" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Settings" width="375" height="812">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/41d3914b-c741-44cf-ac2e-8234012fff5e-1588874298614.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/41d3914b-c741-44cf-ac2e-8234012fff5e-1588874298614-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/41d3914b-c741-44cf-ac2e-8234012fff5e-1588874298614-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/41d3914b-c741-44cf-ac2e-8234012fff5e-1588874775855.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/41d3914b-c741-44cf-ac2e-8234012fff5e-1588874775855-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/41d3914b-c741-44cf-ac2e-8234012fff5e-1588874775855-ie8.css" /><![endif]-->\
       <div id="s-Dynamic_Panel_1" class="pie dynamicpanel firer commentable non-processed" datasizewidth="375px" datasizeheight="178px" dataX="0" dataY="543" >\
         <div id="s-Panel_1" class="pie panel default firer click ie-background commentable non-processed"  datasizewidth="375px" datasizeheight="173px" >\
           <div class="backgroundLayer"></div>\
