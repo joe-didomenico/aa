@@ -2,9 +2,9 @@ var content='<div class="ui-page" deviceName="iPhoneX" deviceType="mobile" devic
     <div id="t-12e3c31e-dc69-4101-bd26-c6518085d0c6" class="template growth-both devMobile devIOS canvas firer commentable non-processed" alignment="left" name="Template 2" width="375" height="812">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/12e3c31e-dc69-4101-bd26-c6518085d0c6-1588871980533.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/12e3c31e-dc69-4101-bd26-c6518085d0c6-1588871980533-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/12e3c31e-dc69-4101-bd26-c6518085d0c6-1588871980533-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/12e3c31e-dc69-4101-bd26-c6518085d0c6-1588874298614.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/12e3c31e-dc69-4101-bd26-c6518085d0c6-1588874298614-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/12e3c31e-dc69-4101-bd26-c6518085d0c6-1588874298614-ie8.css" /><![endif]-->\
       <div id="t-Rectangle_1" class="pie rectangle firer commentable non-processed"   datasizewidth="410px" datasizeheight="853px" dataX="-7" dataY="-4" >\
        <div class="backgroundLayer"></div>\
        <div class="paddingLayer">\
@@ -24,9 +24,9 @@ var content='<div class="ui-page" deviceName="iPhoneX" deviceType="mobile" devic
     <div id="s-41d3914b-c741-44cf-ac2e-8234012fff5e" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Settings" width="375" height="812">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/41d3914b-c741-44cf-ac2e-8234012fff5e-1588871980533.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/41d3914b-c741-44cf-ac2e-8234012fff5e-1588871980533-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/41d3914b-c741-44cf-ac2e-8234012fff5e-1588871980533-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/41d3914b-c741-44cf-ac2e-8234012fff5e-1588874298614.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/41d3914b-c741-44cf-ac2e-8234012fff5e-1588874298614-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/41d3914b-c741-44cf-ac2e-8234012fff5e-1588874298614-ie8.css" /><![endif]-->\
       <div id="s-Dynamic_Panel_1" class="pie dynamicpanel firer commentable non-processed" datasizewidth="375px" datasizeheight="178px" dataX="0" dataY="543" >\
         <div id="s-Panel_1" class="pie panel default firer click ie-background commentable non-processed"  datasizewidth="375px" datasizeheight="173px" >\
           <div class="backgroundLayer"></div>\
@@ -161,7 +161,7 @@ var content='<div class="ui-page" deviceName="iPhoneX" deviceType="mobile" devic
           </div>\
         </div>\
       </div>\
-      <div id="s-Rectangle_2" class="pie rectangle firer commentable non-processed"   datasizewidth="316px" datasizeheight="53px" dataX="24" dataY="582" >\
+      <div id="s-Rectangle_2" class="pie rectangle firer click commentable non-processed"   datasizewidth="316px" datasizeheight="53px" dataX="24" dataY="582" >\
        <div class="backgroundLayer"></div>\
        <div class="paddingLayer">\
          <div class="clipping">\
@@ -284,7 +284,7 @@ var content='<div class="ui-page" deviceName="iPhoneX" deviceType="mobile" devic
           </div>\
         </div>\
       </div>\
-      <div id="s-Image_2" class="pie image firer ie-background commentable non-processed"   datasizewidth="29px" datasizeheight="36px" dataX="12" dataY="40"   alt="image" systemName="./images/8455a469-47c4-4d8c-9ddf-d9ce9e3b6b79.svg" overlay="#000000">\
+      <div id="s-Image_2" class="pie image firer click ie-background commentable non-processed"   datasizewidth="29px" datasizeheight="36px" dataX="12" dataY="40"   alt="image" systemName="./images/8455a469-47c4-4d8c-9ddf-d9ce9e3b6b79.svg" overlay="#000000">\
           <svg preserveAspectRatio=\'none\' id="s-Image_2-Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64"><defs><style>#s-Image_2 .cls-1{fill:#666;}</style></defs><title>previous111</title><polygon id="s-Image_2-previous" class="cls-1" points="39.85 55.12 16.73 32 39.85 8.88 42.65 11.74 22.4 32 42.97 52.57 39.85 55.12"/></svg>\
       </div>\
 \

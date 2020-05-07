@@ -2,9 +2,9 @@ var content='<div class="ui-page" deviceName="iPhoneX" deviceType="mobile" devic
     <div id="t-8a0bf39d-1481-48eb-8bef-2fb7fda16aa2" class="template growth-both devMobile devIOS canvas firer commentable non-processed" alignment="left" name="Template 1_1" width="375" height="812">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/8a0bf39d-1481-48eb-8bef-2fb7fda16aa2-1588871980533.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/8a0bf39d-1481-48eb-8bef-2fb7fda16aa2-1588871980533-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/8a0bf39d-1481-48eb-8bef-2fb7fda16aa2-1588871980533-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/8a0bf39d-1481-48eb-8bef-2fb7fda16aa2-1588874298614.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/8a0bf39d-1481-48eb-8bef-2fb7fda16aa2-1588874298614-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/8a0bf39d-1481-48eb-8bef-2fb7fda16aa2-1588874298614-ie8.css" /><![endif]-->\
       <div id="t-Rectangle_1" class="pie rectangle firer commentable non-processed"   datasizewidth="410px" datasizeheight="707px" dataX="-7" dataY="-4" >\
        <div class="backgroundLayer"></div>\
        <div class="paddingLayer">\
@@ -24,9 +24,9 @@ var content='<div class="ui-page" deviceName="iPhoneX" deviceType="mobile" devic
     <div id="s-ad071826-57d8-4a9c-b103-9964d3420b3b" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Upgrade Options" width="375" height="812">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/ad071826-57d8-4a9c-b103-9964d3420b3b-1588871980533.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/ad071826-57d8-4a9c-b103-9964d3420b3b-1588871980533-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/ad071826-57d8-4a9c-b103-9964d3420b3b-1588871980533-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/ad071826-57d8-4a9c-b103-9964d3420b3b-1588874298614.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/ad071826-57d8-4a9c-b103-9964d3420b3b-1588874298614-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/ad071826-57d8-4a9c-b103-9964d3420b3b-1588874298614-ie8.css" /><![endif]-->\
       <div id="s-Rectangle_1" class="pie rectangle firer commentable non-processed"   datasizewidth="405px" datasizeheight="197px" dataX="-11" dataY="288" >\
        <div class="backgroundLayer"></div>\
        <div class="paddingLayer">\
@@ -183,7 +183,7 @@ var content='<div class="ui-page" deviceName="iPhoneX" deviceType="mobile" devic
       </div>\
       <div id="s-Text_4" class="pie label singleline firer pageload ie-background commentable non-processed"   datasizewidth="45px" datasizeheight="19px" dataX="30" dataY="12" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_4_0">4:02</span></div></div></div></div>\
 \
-      <div id="s-Image_1" class="pie image firer ie-background commentable non-processed"   datasizewidth="60px" datasizeheight="58px" dataX="308" dataY="32"   alt="image">\
+      <div id="s-Image_1" class="pie image firer click ie-background commentable non-processed"   datasizewidth="60px" datasizeheight="58px" dataX="308" dataY="32"   alt="image">\
           <img src="./images/18e9c188-90bd-4424-a8cb-cad873bc88c7.png" />\
       </div>\
       <div id="shapewrapper-s-Line_1" class="shapewrapper shapewrapper-s-Line_1 non-processed"   datasizewidth="483px" datasizeheight="2px" dataX="-80" dataY="284" >\
